@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# ReduxReactStarter
 
 <h4> React-Redux starter pack with hot reloader, axios, eslint, prettier based on duck patern and create react app</h4>
@@ -33,3 +34,6 @@
 Or to download zip file click [here](https://github.com/mrTurkay/ReduxReactStarter/archive/master.zip) 
 
 Then you can open directory with command promt and start with (Commit for your local) part of this document above. 
+=======
+# flask-api-react
+>>>>>>> 376092372f0bdfcc7cb86f3cdf2ba6a4e5c510bf
